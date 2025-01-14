@@ -21,7 +21,7 @@ minecraft_colours = minecraft_colour_map.keys()
 
 def get_nearest_minecraft_colour(r,g,b):
     nearest_minecraft_colour = (0,0,0)
-    min_two_norm = 195076 # (255-0)^3 + 1
+    min_two_norm = 195076 # 3*(255-0)^2 + 1
     for minecraft_colour in minecraft_colours:
         two_norm = (minecraft_colour[0] - r)**2 + (minecraft_colour[1] - g)**2 + (minecraft_colour[2] - b)**2
         if two_norm < min_two_norm:
