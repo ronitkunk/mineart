@@ -8,7 +8,7 @@ Paint images from your computer into your Minecraft: Java Edition world.
 ## Instructions
 [NOTE] A demonstration video is available on YouTube:
 
-[![IMAGE ALT TEXT](data/yt_thumbnail.png)](http://www.youtube.com/watch?v=_knGTZxzX70 "Video Title")
+[![IMAGE ALT TEXT](data/yt_thumbnail.png)](https://www.youtube.com/watch?v=_knGTZxzX70 "Video Title")
 
 * [First time users only] Clone this repository and navigate to the directory.
 ```sh
@@ -53,5 +53,5 @@ python driver.py hello.jpg 40 --starting_coordinates 143 200 --counter_max 5 --m
 
 ## Credits
 * Dog image from [Bond Vet](https://bondvet.com/b/what-to-do-when-your-dog-wont-poop)
-* Minecraft: Java Edition from [Minecraft](minecraft.net)
-* Python libraries from the [Python Package Index](pypi.org)
+* Minecraft: Java Edition from [Minecraft](https://minecraft.net)
+* Python libraries from the [Python Package Index](https://pypi.org)
