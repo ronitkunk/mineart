@@ -1,7 +1,7 @@
 # MineArt
 
 ## Introduction
-Paint images from your computer into your Minecraft: Java Edition world.
+Print images from your computer into your Minecraft: Java Edition world.
 
 ![MineArt banner](data/banner.png "MineArt Banner")
 
