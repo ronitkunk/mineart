@@ -6,6 +6,10 @@ Paint images from your computer into your Minecraft: Java Edition world.
 ![MineArt banner](data/banner.png "MineArt Banner")
 
 ## Instructions
+[NOTE] A demonstration video is available on YouTube:
+
+[![IMAGE ALT TEXT](data/yt_thumbnail.png)](http://www.youtube.com/watch?v=_knGTZxzX70 "Video Title")
+
 * [First time users only] Clone this repository and navigate to the directory.
 ```sh
 git clone https://github.com/ronitkunk/mineart.git
